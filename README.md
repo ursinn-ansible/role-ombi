@@ -1,7 +1,9 @@
-# ansible-role-ombi
+# Ansible Role - Ombi
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ursinn/ansible-role-ombi?logo=github&style=for-the-badge)](https://github.com/ursinn/ansible-role-ombi/commits)
 [![License](https://img.shields.io/github/license/ursinn/ansible-role-ombi?style=for-the-badge)](https://github.com/ursinn/ansible-role-ombi/blob/main/LICENSE)
+
+Docker Image: https://docs.linuxserver.io/images/docker-ombi
 
 ## License
 
