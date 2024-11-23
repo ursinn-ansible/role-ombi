@@ -1,6 +1,8 @@
 ---
-app_ombi_enabled: false
-app_ombi_puid: '16704'
-app_ombi_pgid: '16704'
-app_ombi_tz: "Europe/Zurich"
-app_ombi_dir: "/opt/app-ombi"
+role_ombi_image: 'lscr.io/linuxserver/ombi'
+role_ombi_container: 'ombi'
+role_ombi_puid: '1000'
+role_ombi_pgid: '1000'
+role_ombi_tz: 'Europe/Zurich'
+role_ombi_dir: '/opt/app-ombi'
+role_ombi_network: 'app-network'
